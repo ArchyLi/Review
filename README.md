@@ -7,4 +7,4 @@
 # 目录
 | Chapter 1  | 
 | :---------:  | 
-| [编程基础](https://github.com/ArchyLi/Review/blob/master/C++.md)|
+| [C/C++](https://github.com/ArchyLi/Review/blob/master/C++.md)|
