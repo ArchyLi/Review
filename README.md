@@ -9,4 +9,4 @@
 | :---------:  | :---------:  |:---------:  |:---------:  |
 | [C/C++](https://github.com/ArchyLi/Review/blob/master/C++.md)|[大数据处理](https://github.com/ArchyLi/Review/blob/master/大数据处理.md)|[操作系统](https://github.com/ArchyLi/Review/blob/master/操作系统.md)|[计算机网络](https://github.com/ArchyLi/Review/blob/master/计算机网络.md)|
 
-PS：目前还有很多知识点未完善，补充中。。。
+PS：目前还有很多知识点未完善，补充中。。。同时这些知识是在网上搜索出来的，会有一些错误，希望能指出。
